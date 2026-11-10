@@ -1,0 +1,7 @@
+/mi_desarrollo/catedra_tp02.py
+/mi_desarrollo/__pycache__/
+/.venv/
+/.vscode/
+__pycache__/
+/entorno/sim/.pose_actual.json
+/entorno/sim/.simulador_activo.json
